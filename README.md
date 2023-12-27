@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="left">💫 About Me:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogananda16&label=Profile%20views&color=0e75b6&style=flat" alt="yogananda16" /> </p>
 
 <p>🔭 I’m currently working on:<br>
