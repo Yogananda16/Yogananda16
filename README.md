@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yogananda M</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogananda16&label=Profile%20views&color=0e75b6&style=flat" alt="yogananda16" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yogananda_12" target="blank"><img src="https://img.shields.io/twitter/follow/yogananda_12?logo=twitter&style=for-the-badge" alt="yogananda_12" /></a> </p>
 
 - 🔭 I’m currently working on **Improving 5G network-based solutions and playing around with Data.**
 
