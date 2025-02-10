@@ -1,11 +1,11 @@
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left"> About Me:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogananda16&label=Profile%20views&color=0e75b6&style=flat" alt="yogananda16" /> </p>
 
 <p>🔭 I’m currently working on:<br>
-    Improving 5G network-based solutions and playing around with Data.</p>
+    Machine learning projects, data engineering workflows, and AI-driven analytics.</p>
 
   <p>🌱 I’m currently learning:<br>
-    SQL, Power BI, Tableau.</p>
+    Advanced SQL, Big Data technologies, and cloud-based data solutions.</p>
 
   <p>👯 I’m looking to collaborate on:<br>
     Data Science and Data Analytics projects.</p>
@@ -14,7 +14,7 @@
     Data Science, Data Analytics, Python, 5G.</p>
 
   <p>⚡ Fun fact:<br>
-    I love reading books and I'm a fitness enthusiast.</p>
+    I enjoy experimenting with AI models, exploring new tech trends, and staying active with fitness.</p>
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
