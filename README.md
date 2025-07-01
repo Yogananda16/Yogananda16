@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogananda16&label=Profile%20views&color=0e75b6&style=flat" alt="yogananda16" /> </p>
 
 <p>🔭 I’m currently working on:<br>
-    Machine learning projects, data engineering workflows, and AI-driven analytics.</p>
+    AWS cloud certification, Machine learning projects, data engineering workflows.</p>
 
   <p>🌱 I’m currently learning:<br>
     Advanced SQL, Big Data technologies, and cloud-based data solutions.</p>
 
   <p>👯 I’m looking to collaborate on:<br>
-    Data Science and Data Analytics projects.</p>
+    Data Science, Machine Learning and Data Analytics projects.</p>
 
   <p>💬 Ask me about:<br>
     Data Science, Data Analytics, Python, 5G.</p>
