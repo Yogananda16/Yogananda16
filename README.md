@@ -26,6 +26,4 @@ A private AI discussion platform where people can explore ideas, documents, rese
 
 Website: https://www.convosatya.com
 
-LinkedIn: linkedin.com/in/yogananda-m-827113227/
-
 Email: yogananda@convosatya.com
