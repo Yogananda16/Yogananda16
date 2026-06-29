@@ -2,7 +2,7 @@
 
 Co-founder of **ConvoSatya**.
 
-We're building AI products around human conversations
+We're building AI products around human conversations.
 
 ## GitHub Stats
 
