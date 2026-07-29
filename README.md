@@ -8,7 +8,6 @@ We're building AI products around human conversations
 
 ![Yogananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yogananda16&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Yogananda16&color=blue)
 
