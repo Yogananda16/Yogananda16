@@ -4,11 +4,6 @@ Co-founder of **ConvoSatya**.
 
 We're building AI products around human conversations
 
-## GitHub Stats
-
-![Yogananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&theme=dark)
-
-
 ![](https://komarev.com/ghpvc/?username=Yogananda16&color=blue)
 
 ## Products
