@@ -2,7 +2,7 @@
 
 Co-founder of **ConvoSatya**.
 
-We're building AI products around human conversations
+We're building AI products around human conversations to help you have safer and meaningful conversations.
 
 ![](https://komarev.com/ghpvc/?username=Yogananda16&color=blue)
 
