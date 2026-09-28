@@ -52,35 +52,61 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 ### Programming Languages
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+</p>
+
 `Python` `SQL` `C++` `HTML` `CSS`
 
 ### AI, Machine Learning & LLMs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 `Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Transformers` `NLP` `RAG` `LLMs` `Multi-Agent Systems`
 
 ### Data & Analytics
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
 `Pandas` `NumPy` `Power BI` `Tableau` `Excel` `Apache Spark` `Hadoop`
 
 ### Databases & Retrieval
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
 `PostgreSQL` `MySQL` `MongoDB` `ChromaDB` `Vector Databases` `BM25`
 
 ### Cloud & Data Engineering
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" />
+</p>
+
 `AWS` `GCP` `ETL` `Data Pipelines` `AWS Lambda` `Amazon S3` `API Gateway` `QuickSight`
 
 ### AI & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs" />
+</p>
 
 `FastAPI` `Next.js` `Streamlit` `Google ADK` `Gemini` `Ollama`
 
 ### Development Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
 `Git` `GitHub` `Linux` `Jira` `ServiceNow` `Zapier`
 
 ---
-
-[GitHub](https://github.com/Yogananda16/learn-lens)
 
 ---
 
