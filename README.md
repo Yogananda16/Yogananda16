@@ -1,16 +1,18 @@
-# Hey there 👋, I'm Yogananda Manjunath
+<h1 align="center">Hey there 👋, I'm Yogananda Manjunath</h1>
 
-### AI Engineer | Data Scientist | Co-Founder @ ConvoSatya
+<h3 align="center">AI Engineer | Data Scientist | Co-Founder @ ConvoSatya</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogananda16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/yogananda-manjunath/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ymanjunathds@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<hr>
 
 ---
 
