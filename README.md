@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<hr>
-
----
-
 ## 👨‍💻 About Me
 
 I am an **AI Engineer, Data Scientist, and startup co-founder** with experience across applied AI, machine learning, data engineering, research, and software development.
