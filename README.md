@@ -48,6 +48,8 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 ---
 
+---
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -62,6 +64,12 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48" alt="Ollama" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />
 </p>
 
 `Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Transformers` `NLP` `RAG` `LLMs` `Multi-Agent Systems`
@@ -69,7 +77,19 @@ A private AI discussion platform where users can explore ideas, documents, resea
 ### Data & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Excel" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="48" alt="Apache Spark" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="48" alt="Hadoop" />
 </p>
 
 `Pandas` `NumPy` `Power BI` `Tableau` `Excel` `Apache Spark` `Hadoop`
@@ -78,6 +98,8 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PostgreSQL" />
 </p>
 
 `PostgreSQL` `MySQL` `MongoDB` `ChromaDB` `Vector Databases` `BM25`
@@ -88,12 +110,24 @@ A private AI discussion platform where users can explore ideas, documents, resea
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" />
 </p>
 
+<p>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="48" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="48" alt="Google Cloud" />
+</p>
+
 `AWS` `GCP` `ETL` `Data Pipelines` `AWS Lambda` `Amazon S3` `API Gateway` `QuickSight`
 
 ### AI & Application Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48" alt="Ollama" />
 </p>
 
 `FastAPI` `Next.js` `Streamlit` `Google ADK` `Gemini` `Ollama`
@@ -102,6 +136,12 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="48" alt="Jira" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/servicenow/81B5A1" height="48" alt="ServiceNow" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier" />
 </p>
 
 `Git` `GitHub` `Linux` `Jira` `ServiceNow` `Zapier`
