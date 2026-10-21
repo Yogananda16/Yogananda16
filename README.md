@@ -4,20 +4,24 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yogananda16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="YOUR_LINKEDIN_URL">
+
+  <a href="https://www.linkedin.com/in/yogananda-manjunath/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:ymanjunathds@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
 I am an **AI Engineer, Data Scientist, and startup co-founder** with experience across applied AI, machine learning, data engineering, research, and software development.
 
 - 🎓 Completed my **M.S. in Data Science** at the **University of New Haven**
-- 🚀 Co-founder of **ConvoSatya**, building AI products around safer and more meaningful conversations
+- 🚀 Co-founder of **ConvoSatya**, building AI systems around safer and more meaningful digital conversations
 - 🧠 Co-authored research on **explainable multi-agent conversational scam detection**
 - 🤖 Interested in **LLMs, RAG, Agentic AI, AI Safety, Cybersecurity, Multi-Agent Systems, and Human-AI Interaction**
 - 📊 Experienced with **Python, SQL, machine learning, data pipelines, cloud platforms, dashboards, and model evaluation**
@@ -38,15 +42,11 @@ An explainable multi-agent conversational scam detection system designed to iden
 
 **Focus:** `AI Safety` `Cybersecurity` `LLMs` `Multi-Agent Systems` `Explainable AI`
 
----
-
 ### OSM — One-Man Social Media
 
 A private AI discussion platform where users can explore ideas, documents, research, and personal interests through conversations with multiple AI personalities.
 
 **Focus:** `Conversational AI` `LLMs` `Private AI` `Human-AI Interaction`
-
----
 
 ---
 
@@ -98,8 +98,6 @@ A private AI discussion platform where users can explore ideas, documents, resea
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PostgreSQL" />
 </p>
 
 `PostgreSQL` `MySQL` `MongoDB` `ChromaDB` `Vector Databases` `BM25`
@@ -110,13 +108,7 @@ A private AI discussion platform where users can explore ideas, documents, resea
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" />
 </p>
 
-<p>
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="48" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="48" alt="Google Cloud" />
-</p>
-
-`AWS` `GCP` `ETL` `Data Pipelines` `AWS Lambda` `Amazon S3` `API Gateway` `QuickSight`
+`AWS` `GCP` `Docker` `Linux` `ETL` `Data Pipelines` `AWS Lambda` `Amazon S3` `API Gateway` `QuickSight`
 
 ### AI & Application Development
 
@@ -144,9 +136,7 @@ A private AI discussion platform where users can explore ideas, documents, resea
   <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="48" alt="Zapier" />
 </p>
 
-`Git` `GitHub` `Linux` `Jira` `ServiceNow` `Zapier`
-
----
+`Git` `GitHub` `VS Code` `Linux` `Jira` `ServiceNow` `Zapier`
 
 ---
 
@@ -180,8 +170,6 @@ The work focused on:
 - Co-developing and evaluating AI systems for conversational safety and scam detection
 - Working across LLM evaluation, benchmarking, data validation, cloud systems, and product development
 
----
-
 ### Graduate Research Assistant — University of New Haven
 
 **December 2025 – July 2026**
@@ -189,16 +177,12 @@ The work focused on:
 - Prepared and validated datasets for AI and conversational scam detection research
 - Supported model evaluation, benchmark development, user studies, statistical analysis, and documentation
 
----
-
 ### Workflow Automation Intern — GoGreenLocally.org
 
 **January 2026 – May 2026**
 
 - Built ETL and cross-system reporting workflows
 - Improved reporting efficiency by **40%**
-
----
 
 ### Software Engineer — Tech Mahindra
 
@@ -218,15 +202,36 @@ The work focused on:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&hide_border=true" alt="Yogananda's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&hide_border=true&include_all_commits=true&number_format=long&hide=issues,prs,contribs&rank_icon=github"
+    alt="Yogananda Manjunath's GitHub Stats"
+  />
 </p>
 
+### 💻 Most Used Languages
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=cython"
+    alt="Yogananda Manjunath's Most Used Languages"
+  />
 </p>
+
+### 🔥 Contribution Streak
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com/?user=Yogananda16&theme=github-dark-blue&hide_border=true"
+    alt="Yogananda Manjunath's GitHub Streak"
+  />
+</p>
+
+### 📈 Contribution Graph
+
+[![Yogananda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogananda16&theme=github-compact&hide_border=true)](https://github.com/Yogananda16)
 
 ---
 
@@ -248,7 +253,6 @@ The work focused on:
 - GitHub: https://github.com/Yogananda16
 - Website: https://www.convosatya.com
 - Email: ymanjunathds@gmail.com
-- ConvoSatya: https://www.convosatya.com
 
 ---
 
