@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Yogananda Manjunath</h1>
+<h1 align="center">Yo 👋, I'm Yogananda Manjunath</h1>
 
 <h3 align="center">AI Engineer | Data Scientist | Co-Founder @ ConvoSatya</h3>
 
