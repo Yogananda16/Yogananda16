@@ -215,7 +215,7 @@ The work focused on:
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=cython"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=cython,fortran"
     alt="Yogananda Manjunath's Most Used Languages"
   />
 </p>
