@@ -16,6 +16,32 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&hide_border=true&include_all_commits=true&number_format=long&hide=issues,prs,contribs&rank_icon=github"
+    alt="Yogananda Manjunath's GitHub Stats"
+  />
+</p>
+
+### 💻 Languages & Contribution Streak
+
+<p align="left">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=7&size_weight=0.5&count_weight=0.5&hide=cython,fortran,meson"
+    alt="Yogananda Manjunath's Most Used Languages"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=Yogananda16&theme=github-dark-blue&hide_border=true"
+    alt="Yogananda Manjunath's GitHub Streak"
+  />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I am an **AI Engineer, Data Scientist, and startup co-founder** with experience across applied AI, machine learning, data engineering, research, and software development.
@@ -199,39 +225,6 @@ The work focused on:
 |---|---|---|
 | **University of New Haven** | M.S. in Data Science | August 2024 – May 2026 |
 | **Cambridge Institute of Technology** | B.E. in Electronics and Communication | August 2017 – August 2021 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&hide_border=true&include_all_commits=true&number_format=long&hide=issues,prs,contribs&rank_icon=github"
-    alt="Yogananda Manjunath's GitHub Stats"
-  />
-</p>
-
-### 💻 Most Used Languages
-
-<p align="left">
-  <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=cython,fortran"
-    alt="Yogananda Manjunath's Most Used Languages"
-  />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com/?user=Yogananda16&theme=github-dark-blue&hide_border=true"
-    alt="Yogananda Manjunath's GitHub Streak"
-  />
-</p>
-
-### 📈 Contribution Graph
-
-[![Yogananda's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogananda16&theme=github-compact&hide_border=true)](https://github.com/Yogananda16)
 
 ---
 
