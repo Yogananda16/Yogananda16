@@ -16,27 +16,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&hide_border=true&include_all_commits=true&number_format=long&hide=issues,prs,contribs&rank_icon=github"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Yogananda16&show_icons=true&include_all_commits=true&number_format=long&hide=issues,prs,contribs&rank_icon=github&theme=github_dark&hide_border=true"
     alt="Yogananda Manjunath's GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=Yogananda16&theme=github-dark-blue&hide_border=true"
+    alt="Yogananda Manjunath's GitHub Streak"
   />
 </p>
 
-### 💻 Languages & Contribution Streak
-
-<p align="left">
+<p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&hide_border=true&langs_count=7&size_weight=0.5&count_weight=0.5&hide=cython,fortran,meson"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogananda16&layout=compact&langs_count=7&size_weight=0.5&count_weight=0.5&hide=cython,fortran,meson&theme=github_dark&hide_border=true"
     alt="Yogananda Manjunath's Most Used Languages"
-  />
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com/?user=Yogananda16&theme=github-dark-blue&hide_border=true"
-    alt="Yogananda Manjunath's GitHub Streak"
   />
 </p>
 
